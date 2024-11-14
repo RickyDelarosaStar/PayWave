@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/pietrzakadrian/bank-server
+	url = https://github.com/RickyDelarosaStar/PayWave/server
 [submodule "client"]
 	path = client
-	url = https://github.com/pietrzakadrian/bank-client
+	url = https://github.com/RickyDelarosaStar/PayWave/client
